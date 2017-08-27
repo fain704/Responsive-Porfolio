@@ -1,0 +1,206 @@
+*{
+	font-family: arial;
+
+
+}
+
+header{
+	height: 100px;
+	background-color: white;
+
+
+}
+
+h1{
+	background-color: #4aaaa5;
+	color: white;
+	font-family: Georgia;
+	margin-top: 2%;
+}
+
+h2{
+	text-align: center;
+}
+
+p{
+	padding: 10px 10px 10px 10px;
+}
+body{
+	background-color: grey;
+	margin: 0px;
+}
+
+form{
+	margin: 50px;
+}
+
+.name{
+	float: left;
+	margin-right: 25%;
+	margin-left: 10%;
+
+}
+
+.link{
+	float: left;
+	background-color: white;
+	padding: 10px 10px 10px 10px;
+	color: grey;
+}
+
+.wrapper{
+	background-color: white;
+	height: 500px;
+	width: 500px;
+	float: left;
+	margin: 15px;
+
+
+}
+
+.profile-pic{
+	float: left;
+	padding: 10px;
+	height:200px;
+	width: 200px;
+}
+
+.about-me{
+	background-color: white;
+}
+
+.connect{
+	background-color: white;
+	height: 150px;
+	width: 250px;
+	float: left;
+	margin-left: 200px;
+	margin-top: 15px;
+}
+
+.icons{
+	float: left;
+	margin: 5% 5% 5% 5%;
+	height: 50px;
+}
+
+.footer{
+	clear: both;
+	text-align: center;
+	background-color: white;
+	height: 100px;
+}
+
+.contact{
+	background-color: white;
+	float: left;
+
+}
+
+.program1{
+	height: 100px;
+	width: 100px;
+	margin: 10px;
+	float: left;
+}
+
+.program2{
+	height: 100px;
+	width: 100px;
+	margin: 10px;
+}
+
+.program3{
+	height: 100px;
+	width: 100px;
+	margin: 10px;
+	float: left;
+}
+
+.program4{
+	height: 100px;
+	width: 100px;
+	margin: 10px;
+}
+
+.program5{
+	height: 100px;
+	width: 100px;
+	margin: 10px;
+}
+
+#main-container{
+	padding: 15px;
+	height:800px;
+}
+.port1{
+	position: relative;
+	height: 20px;
+	width: 100px;
+	background-color: #4aaaa5;
+	color:white;
+	text-align: center;
+	text-decoration: none;
+	margin: 10px;
+	top:60px;
+	left:-120px;
+	opacity: 0.9;
+	float: left;
+}
+
+.port2{
+	position: relative;
+	height: 20px;
+	width: 100px;
+	background-color: #4aaaa5;
+	color:white;
+	text-align: center;
+	text-decoration: none;
+	margin: 10px;
+	top:-65px;
+	left:240px;
+	opacity: 0.9;
+}
+
+.port3{
+	position: relative;
+	height: 20px;
+	width: 100px;
+	background-color: #4aaaa5;
+	color:white;
+	text-align: center;
+	text-decoration: none;
+	margin: 10px;
+	top:60px;
+	left:-120px;
+	opacity: 0.9;
+	float: left;
+}
+
+.port4{
+	position: relative;
+	height: 20px;
+	width: 100px;
+	background-color: #4aaaa5;
+	color:white;
+	text-align: center;
+	text-decoration: none;
+	margin: 10px;
+	top:-65px;
+	left:240px;
+	opacity: 0.9;
+}
+
+.port5{
+	position: relative;
+	height: 20px;
+	width: 100px;
+	background-color: #4aaaa5;
+	color:white;
+	text-align: center;
+	text-decoration: none;
+	margin: 10px;
+	top:-60px;
+	left:0px;
+	opacity: 0.9;
+}
